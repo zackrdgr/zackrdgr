@@ -6,5 +6,5 @@ I’m the Enterprise Platform Manager at Focal Point Care, where I run our Creat
 
 Most of my work lives in private repos, so the best place to see it is **[zrodger.com](https://zrodger.com)**.
 
-**Tools:** Creatio · JavaScript · C# · SQL · Astro · WordPress · Figma
+**Tools:** Creatio · JavaScript · C# · SQL · Astro · WordPress · Figma<br>
 **Say hi:** [me@zrodger.com](mailto:me@zrodger.com) · [LinkedIn](https://www.linkedin.com/in/zrodger/)
